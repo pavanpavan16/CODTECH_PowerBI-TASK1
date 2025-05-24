@@ -19,7 +19,15 @@ Sales Trends, Top Products, and Regional Performance Dashboard
 This project features an interactive Power BI dashboard built using sample sales data. It tracks key metrics such as overall sales trends, top-performing products, and regional performance. Slicers are included to allow dynamic filtering based on time, region, and product category.
 
 📈 Summary:
-The dashboard offers stakeholders an at-a-glance view of business performance, helping in identifying growth opportunities and areas that need improvement.
+A comprehensive sales analysis dashboard showing Total Sales, Products Sold, and Units Sold. Visuals include sales by Month, Product, Country, and Segment. Year slicers enable comparison across 2013 and 2014.
+
+## Why Used: To analyze sales trends and performance metrics by time, geography, and product.
+
+## Visuals Used: Card KPIs, Line Chart, Bar Chart, Donut Chart, Slicer.
+
+## Key Insights: Monthly seasonality, top-performing products, and country/segment contributions.
+
+
 
 🔗 Live Preview / Report File:
 Power BI file (.pbix) included in this repository.

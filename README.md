@@ -2,6 +2,13 @@
 📌 Project Title:
 Sales Trends, Top Products, and Regional Performance Dashboard
 
+*COMPANY* : CODTECH IT SOLUTIONS
+*NAME* : PAVAN MANUMARRI
+*INTERN ID* : CT04DK572
+*DOMAIN* : POWER BI
+*DURATION* : 4 WEEKS
+*MENTOR* : NEELA SANTOSH
+
 📄 Description:
 This project features an interactive Power BI dashboard built using sample sales data. It tracks key metrics such as overall sales trends, top-performing products, and regional performance. Slicers are included to allow dynamic filtering based on time, region, and product category.
 
